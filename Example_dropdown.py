@@ -10,6 +10,7 @@ browser.maximize_window()
 
 browser.get("https://alhymrecords.com/")
 time.sleep(7)
+
 browser.find_element(By.LINK_TEXT, "EVENTS").click()
 time.sleep(3)
 
