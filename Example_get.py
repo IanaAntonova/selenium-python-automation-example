@@ -11,4 +11,4 @@ time.sleep(3)
 browser.refresh()
 time.sleep(3)
 browser.back()
-browser.forward()
+browser.forward().
